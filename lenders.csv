@@ -1,0 +1,5 @@
+Name,Code,Upfront Commission Rate,Trial Commission Rate,Active
+Random,333,92.44,12.22,True
+Random Error,3335,92.44,12.22,True
+New Lender,222,12.22,44.44,False
+Another Lender,abc,100,0,True
